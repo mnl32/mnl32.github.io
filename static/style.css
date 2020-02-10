@@ -1,9 +1,11 @@
 html {
 background-color: #9932CC; 
 }
+
 h1 {
-color: purple; 
-}    
+color: #9932CC; 
+}  
+
 ul.main-menu {
     list-style-type: none;
     margin: 0;
