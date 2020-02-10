@@ -1,4 +1,6 @@
-h1 { color: lightpurple; }
+h1 
+{ color: purple; 
+}
 ul.main-menu {
     list-style-type: none;
     margin: 0;
