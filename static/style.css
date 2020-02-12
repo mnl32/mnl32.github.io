@@ -12,9 +12,6 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
-main>p {
-    color: #B22222;
-       } 
 li>a:hover {
     background-color: #B22222;
 }
