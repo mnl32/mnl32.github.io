@@ -15,7 +15,7 @@ ul.main-menu>li {
 main>p {
     color: #B22222;
        } 
-li.a:hover {
+li>a:hover {
     background-color: #B22222;
 }
 body {
