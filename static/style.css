@@ -13,7 +13,7 @@ ul.main-menu>li {
     display: inline;
 }
 li>a:hover {
-    background-color: #B22222;
+    background-color: #ff9999;
 }
 body {
     background-color: #d5d5d7;
