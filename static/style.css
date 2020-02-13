@@ -4,13 +4,15 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-ul.main-menu {
-    list-style-type: none;
+ul.main-menu> {
+    list-style-type: center;
     margin: 0;
-    padding: 0;
+    padding: 1em 1em;
 }
 ul.main-menu>li {
     display: inline;
+    font-size: 115%;
+    color: #ff9999;     
 }
 li>a:hover {
     background-color: #ff9999;
@@ -21,3 +23,9 @@ body {
 li>a: {
     padding: 10px;
     }
+ul a {
+    display: block;
+    padding: 1em 1em;
+    color: #2f4f4f;
+    text-align: center;
+}
