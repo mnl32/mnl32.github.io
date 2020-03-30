@@ -3,9 +3,6 @@ h1 {
      color: #DDA0DD;
      text-align: center;
 }
-ul.main-menu> {
-  display: inline;
-}
 ul.main-menu>li {
     display: inline;
     font-size: 115%;
