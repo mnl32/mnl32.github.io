@@ -8,6 +8,7 @@ ul.main-menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 ul.main-menu>li {
     display: inline;
