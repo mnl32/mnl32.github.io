@@ -2,30 +2,23 @@ h1 {
     font-size: 72px;
      color: #DDA0DD;
      text-align: center;
-}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
+  background-color: #333333;
 }
-ul.main-menu>li {
-    display: inline;
-    font-size: 115%;
-    color: #DDA0DD; 
+li {
+  float: left;
 }
-li>a:hover {
-    background-color: #FFE4E1;
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
 }
-body {
-    background-color: #ffffff;
-}
-li>a: {
-    padding: 10px;
-    }
-ul a {
-    display: block;
-    padding: 1em 1em;
     color: #2f4f4f;
     text-align: center;
 }
