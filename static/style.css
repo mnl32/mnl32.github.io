@@ -1,8 +1,7 @@
 h1 {
     font-size: 72px;
-  background: -webkit-linear-gradient(#8B0000, #FF6347);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+     color: #DDA0DD;
+     text-align: center;
 }
 ul.main-menu> {
     list-style-type: center;
