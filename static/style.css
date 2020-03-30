@@ -3,6 +3,12 @@ h1 {
      color: #DDA0DD;
      text-align: center;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
 ul.main-menu>li {
     display: inline;
     font-size: 115%;
