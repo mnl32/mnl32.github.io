@@ -4,9 +4,7 @@ h1 {
      text-align: center;
 }
 ul.main-menu> {
-    list-style-type: center;
-    margin: 0;
-    padding: 1em 1em;
+  display: inline;
 }
 ul.main-menu>li {
     display: inline;
