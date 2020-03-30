@@ -13,6 +13,9 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
+li>a:hover { 
+  background-color: #DDA0DD;
+}
 .frame {
   width: 75%;
   margin-left: auto;
