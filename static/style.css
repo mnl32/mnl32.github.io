@@ -13,8 +13,11 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
 }
+li>a {
+  color: #DDA0DD;
+}
 li>a:hover { 
-  background-color: #DDA0DD;
+  background-color: #AFEEEE;
 }
 .frame {
   width: 75%;
