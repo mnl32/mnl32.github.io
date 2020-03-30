@@ -10,11 +10,10 @@ ul.main-menu> {
 li {
   float: left;
 }
-
-a {
-  display: block;
-  padding: 8px;
-  background-color: #dddddd;
+ul.main-menu>li {
+    display: inline;
+    font-size: 115%;
+    color: #DDA0DD; 
 }
 li>a:hover {
     background-color: #FFE4E1;
