@@ -11,10 +11,10 @@ ul.main-menu> {
 ul.main-menu>li {
     display: inline;
     font-size: 115%;
-    color: #FFE4E1;     
+    color: #DDA0DD;     
 }
 li>a:hover {
-    background-color: #ff9999;
+    background-color: #FFE4E1;
 }
 body {
     background-color: #d5d5d7;
