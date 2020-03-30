@@ -2,29 +2,28 @@ h1 {
     font-size: 72px;
      color: #DDA0DD;
      text-align: center;
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
 }
-ul.main-menu>li {
-    display: inline;
-    font-size: 115%;
-    color: #DDA0DD; 
+#mainMenu {
+	margin:10px;
+	width:900px;
+	font-family: sans-serif;
 }
-li>a:hover {
-    background-color: #FFE4E1;
+#mainMenu li {
+	display:block;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
 }
-body {
-    background-color: #ffffff;
+
+#mainMenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#fff;
+	color:#009;
 }
-li>a: {
-    padding: 10px;
-    }
-ul a {
-    display: block;
-    padding: 1em 1em;
-    color: #2f4f4f;
-    text-align: center;
-}
+
+#mainMenu a:hover {
+	background-color:#009;
+	color:#fff;
